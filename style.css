@@ -55,6 +55,14 @@ main {
     margin-bottom: 10px; /* 画像下に余白 */
 }
 
+.hoikuen {
+    scroll-snap-type: y mandatory;
+}
+
+.snoring{
+    scroll-snap-type: y mandatory;
+}
+
 /* セクションタイトル */
 h2 {
     color: #0077b6; /* 水色系のアクセントカラー */
