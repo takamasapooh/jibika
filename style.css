@@ -34,7 +34,7 @@ main {
 }
 
 /* プロフィールカードのデザイン */
-.profile {
+.hoikuen {
     background: white; /* 背景色を白に */
     padding: 20px; /* 内側の余白 */
     width: 80%; /* 横幅を80%に */
