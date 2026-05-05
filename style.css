@@ -29,9 +29,9 @@ header {
 main {
     flex: 1; /* 残りの空間をすべて埋める */
     display: flex;
-    flex-direction: colum; /*子要素を縦に並べる*/
-    justify-content: center; /* 水平方向の中央揃え */
-    align-items: center; /* 垂直方向の中央揃え */
+   / flex-direction: colum; /*子要素を縦に並べる*//
+    /justify-content: center; /* 水平方向の中央揃え *//
+    /align-items: center; /* 垂直方向の中央揃え *//
     / padding: 20px; /* 上下左右の余白 *//
     scroll-snap-type: y mandatory;
     width: 100%;
@@ -64,4 +64,5 @@ footer {
     color: white; /* 文字色を白に */
     padding: 10px; /* 内側の余白 */
     text-align: center; /* 中央揃え */
+    font-size: 12px;
 }
