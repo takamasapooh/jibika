@@ -47,14 +47,6 @@ main {
   /  text-align: left; /* テキストを左揃え *//
 /}/
 
-/* プロフィール画像 */
-.profile img {
-    width: 100px; /* 幅100px */
-    height: 100px; /* 高さ100px */
-    border-radius: 50%; /* 円形に */
-    object-fit: cover; /* 画像を適切にトリミング */
-    margin-bottom: 10px; /* 画像下に余白 */
-}
 
 .hoikuen {
     scroll-snap-type: y mandatory;
