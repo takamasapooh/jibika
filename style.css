@@ -22,6 +22,7 @@ header {
     color: white; /* 文字色を白に */
     padding: 10px; /* 内側の余白 */
     font-size: 12px; /* 文字の大きさ */
+    width: 100%;
 }
 
 /* メインコンテンツ（中央揃え） */
@@ -33,7 +34,7 @@ main {
     align-items: center; /* 垂直方向の中央揃え */
     / padding: 20px; /* 上下左右の余白 *//
     scroll-snap-type: y mandatory;
-   /  width: 100%;/
+    width: 100%;
 }
 
 /* プロフィールカードのデザイン */
