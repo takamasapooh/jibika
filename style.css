@@ -27,6 +27,7 @@ header {
 
 /* メインコンテンツ（中央揃え） */
 main {
+    font-size: 10px;
     display: block
 }
 
