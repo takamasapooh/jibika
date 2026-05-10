@@ -27,7 +27,7 @@ header {
 
 /* メインコンテンツ（中央揃え） */
 main {
-    flex: 1; /* 残りの空間をすべて埋める */
+    /*flex: 1; /* 残りの空間をすべて埋める *//*
     display: flex;
     scroll-snap-type: y mandatory;
     width: 100%;
