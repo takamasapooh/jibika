@@ -12,7 +12,7 @@ html, body {
 
 /* フレックスボックスでコンテンツを画面いっぱいに広げる */
 body {
-    display: flex;
+    display: block;
     flex-direction: column; /* 縦方向のレイアウト */
 }
 
@@ -27,7 +27,7 @@ header {
 
 /* メインコンテンツ（中央揃え） */
 main {
-    display: flex;
+    display: block
 }
 
 /* セクションタイトル */
